@@ -30,7 +30,19 @@ body {
 .start_game {
     border: sandybrown 2px solid;
     background-color:rgba(84, 131, 63, 0.801);
-    width: 70%;
+    padding: 20px;
+}
+
+h1{
+    margin-bottom: 10px;
+}
+
+h2{
+    margin-bottom: 10px;
+}
+
+p{
+    margin-bottom: 10px; 
 }
 
 button{
